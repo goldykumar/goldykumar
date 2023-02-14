@@ -15,7 +15,6 @@
 </div>
  
 <img src="https://komarev.com/ghpvc/?username=goldykumar&style=flat-square&color=blue" alt="Views" >
-
 <h1 align="center">
   Hello !! I'm Goldy Kumar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -75,3 +74,7 @@ I am a Student from India and currently looking for an opportunity <img src="htt
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldykumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+<a href="https://drive.google.com/file/d/1-Wq7-SGGDcO1P40EYi6hWss65swxk-x9/view?usp=share_link">
+   Resume Link
+  </a>
