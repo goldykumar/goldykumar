@@ -10,7 +10,7 @@
   <a href="https://twitter.com/Goldybhall3">
     <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="30" alt="Twitter Badge"/>
   </a>
-  <a href="https://instagram.com/goldy_bhall">
+  <a href="https://instagram.com/goldy_bhall_">
   <img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="30" alt="Instagram Badge"/>
 </div>
  
@@ -75,6 +75,3 @@ I am a Student from India and currently looking for an opportunity <img src="htt
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldykumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
-<a href="https://drive.google.com/file/d/1-Wq7-SGGDcO1P40EYi6hWss65swxk-x9/view?usp=share_link">
-   Resume Link
-  </a>
